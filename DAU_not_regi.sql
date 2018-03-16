@@ -1,6 +1,7 @@
+
 /*
 既存のactive_hourly.sqlに、os情報を追加
-registerログを除外
+registerログを除外 hogehoge
  */
 with whole as (
   select distinct
