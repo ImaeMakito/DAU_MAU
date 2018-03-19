@@ -44,3 +44,6 @@ where
 logged_at >= '2018-03-10' 
 group by 
  os,date_jst
+
+
+/* want to piirequest tommow!*/
